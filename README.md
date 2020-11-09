@@ -24,3 +24,7 @@
 7. Context-aware Layered Depth Inpainting [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/artem-konevskikh/ai-in-art/blob/main/07-3d-photo-inpainting.ipynb)
 
 8. Восстановление модели человека с PIFuHD [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/artem-konevskikh/ai-in-art/blob/main/08-pifu-hd.ipynb)
+
+## Бонус
+
+9. GAN + Music [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/artem-konevskikh/ai-in-art/blob/main/09-gan-music.ipynb)
